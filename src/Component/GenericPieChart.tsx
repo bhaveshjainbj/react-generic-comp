@@ -73,7 +73,6 @@ const GenericPieChart = (props: any) => {
           avoidLabelOverlap: false,
           itemStyle: {
             borderRadius: 0,
-            borderColor: 'black',
             borderWidth: 2,
             backgroundColor: backgroundColor
           },
